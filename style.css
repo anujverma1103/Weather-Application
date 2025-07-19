@@ -1,0 +1,17 @@
+body { font-family: 'Inter', sans-serif; }
+    .chart-container {
+      position: relative;
+      width: 100%;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      height: 300px;
+      max-height: 400px;
+    }
+    @media (min-width: 768px) {
+      .chart-container { height: 400px; }
+    }
+    .weather-icon-large {
+      font-size: 6rem;
+      line-height: 1;
+    }
