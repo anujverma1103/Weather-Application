@@ -104,7 +104,7 @@ Contributions are welcome! Feel free to fork the repo, improve the code, and sub
 
 ## 🙏 Credits
 
-This project was developed by [Anuj Verma](https://github.com/anujverma1103 "GitHub Profile"). If you have any questions or suggestions, feel free to [contact me]([https://linkedIn.com/anujverma1103](https://www.linkedin.com/in/anujverma1103/) "LinkedIn Profile").
+This project was developed by [Anuj Verma](https://github.com/anujverma1103 "GitHub Profile"). If you have any questions or suggestions, feel free to [contact me]([https://linkedIn.com/in/anujverma1103/]("LinkedIn Profile").
 
 OpenWeatherMap API: For providing free and reliable weather data.
 
